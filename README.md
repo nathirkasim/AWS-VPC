@@ -1,5 +1,5 @@
 **Scalable AWS Web Application (Terraform)**
-This project demonstrates a production-grade, scalable web application architecture on AWS built using Infrastructure as Code (IaC) with Terraform.
+- This project demonstrates a production-grade, scalable web application architecture on AWS built using Infrastructure as Code (IaC) with Terraform.
 
 **Key Features**
 - Multi-tier VPC architecture (public & private subnets)
@@ -22,4 +22,4 @@ This project demonstrates a production-grade, scalable web application architect
 - Fully automated provisioning (IaC)
 - Scalable and secure cloud-native design
 **Documentation**
-For detailed architecture, implementation, security design, and cost analysis, refer to the attached project document (PDF).
+- For detailed architecture, implementation, security design, and cost analysis, refer to the attached project document (PDF).
